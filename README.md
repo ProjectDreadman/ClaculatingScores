@@ -9,7 +9,7 @@ This is just a practice i had to do about Traverseing array's in class
 2.  **.NET Desktop Development**
 3.  **.NET Framework 4.7.2**
 ### Installation
-1. Clone the repo: `git clone https://github.com/ProjectDreadman/ArrayClasswork.git`
+1. Clone the repo: `git clone https://github.com/ProjectDreadman/ClaculatingScores.git`
 2. Install dependencies: there are not as of right now
 3. Open the project: Navigate to the folder ans double-click the .sln (Solution) file to open it in visual studio
 4. Run the project: Press Ctrl + F5 to Start the program
